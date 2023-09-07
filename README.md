@@ -25,7 +25,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/BCBeno/BCBeno/output/snake.svg" alt="Snake animation" />
-
-###
