@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Java<br>🎯 Goals: Creating an app on my own</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Java<br>🎯 Goals: Creating a real-world aplication.</p>
 
 ###
 
